@@ -1,0 +1,348 @@
+21.11.2021 2:26:38	[accounts.txt]:
+Suspected error:Ошибка записи файла.
+Compiler error:Произошла ошибка в дешифрования файла.
+
+27.11.2021 16:01:47	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:Could not find a part of the path 'C:\Users\Hachiko\Desktop\CourseworkDenisZhukov\bin\Debug\123'.
+
+05.12.2021 4:20:16	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:InvalidArgument=Value of '-1' is not valid for 'SelectionStart'.
+Parameter name: SelectionStart
+
+05.12.2021 4:20:26	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:InvalidArgument=Value of '-1' is not valid for 'SelectionStart'.
+Parameter name: SelectionStart
+
+05.12.2021 4:28:45	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:InvalidArgument=Value of '-1' is not valid for 'SelectionStart'.
+Parameter name: SelectionStart
+
+
+123
+321
+312
+123
+1
+3105.12.2021 13:09:31	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:Object reference not set to an instance of an object.
+
+
+05.12.2021 13:13:39	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:Object reference not set to an instance of an object.
+
+
+12.12.2021 15:05:44	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:Year, Month, and Day parameters describe an un-representable DateTime.
+
+
+12.12.2021 15:29:41	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:Could not find file 'C:\Users\Hachiko\Desktop\CourseworkDenisZhukov\bin\Debug\importExport.txt'.
+
+
+12.12.2021 15:30:30	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:Could not find file 'C:\Users\Hachiko\Desktop\CourseworkDenisZhukov\bin\Debug\importExport.txt'.
+
+
+12.12.2021 15:38:30	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:Index is out of range. Index: 3 0.
+List have 3 element(s) and 3 expended items.
+
+Parameter name: indexHorizontal
+
+
+12.12.2021 15:39:08	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:Index is out of range. Index: 3 0.
+List have 3 element(s) and 3 expended items.
+
+Parameter name: indexHorizontal
+
+
+13.12.2021 21:10:30	[-]:
+Suspected error:Ошибка дешифрования..
+Compiler error:Входные данные не являются действительной строкой Base-64, поскольку содержат символ в кодировке, отличной от Base 64, больше двух символов заполнения или недопустимый символ среди символов заполнения. 
+
+
+13.12.2021 21:10:34	[importExport.txt]:
+Suspected error:Ошибка чтения файла.
+Compiler error:Произошла ошибка в дешифрования файла.
+
+
+13.12.2021 21:10:58	[-]:
+Suspected error:Ошибка дешифрования..
+Compiler error:Входные данные не являются действительной строкой Base-64, поскольку содержат символ в кодировке, отличной от Base 64, больше двух символов заполнения или недопустимый символ среди символов заполнения. 
+
+
+13.12.2021 21:11:00	[importExport.txt]:
+Suspected error:Ошибка открытия файла.
+Compiler error:Произошла ошибка в дешифрования файла.
+
+
+13.12.2021 21:21:58	[-]:
+Suspected error:Ошибка дешифрования..
+Compiler error:Плохие данные.
+
+
+
+13.12.2021 21:22:36	[-]:
+Suspected error:Ошибка дешифрования..
+Compiler error:Плохие данные.
+
+
+
+13.12.2021 21:22:38	[importExport.txt]:
+Suspected error:Ошибка чтения файла.
+Compiler error:Произошла ошибка в дешифрования файла.
+
+
+13.12.2021 23:15:05	[-]:
+Suspected error:Ошибка дешифрования..
+Compiler error:Плохие данные.
+
+
+
+13.12.2021 23:15:09	[importExport.txt]:
+Suspected error:Ошибка открытия файла.
+Compiler error:Произошла ошибка в дешифрования файла.
+
+
+15.12.2021 9:04:29	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:Ссылка на объект не указывает на экземпляр объекта.
+
+
+15.12.2021 9:26:53	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:Ссылка на объект не указывает на экземпляр объекта.
+
+
+15.12.2021 9:27:32	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:Ссылка на объект не указывает на экземпляр объекта.
+
+
+15.12.2021 9:30:58	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:Ссылка на объект не указывает на экземпляр объекта.
+
+
+15.12.2021 9:37:58	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:Ссылка на объект не указывает на экземпляр объекта.
+
+
+15.12.2021 9:39:35	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:Ссылка на объект не указывает на экземпляр объекта.
+
+
+15.12.2021 9:41:51	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:Ссылка на объект не указывает на экземпляр объекта.
+
+
+15.12.2021 9:47:33	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:Ссылка на объект не указывает на экземпляр объекта.
+
+
+15.12.2021 9:50:10	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:Ссылка на объект не указывает на экземпляр объекта.
+
+
+15.12.2021 9:51:16	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:Ссылка на объект не указывает на экземпляр объекта.
+
+
+15.12.2021 9:55:38	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:Ссылка на объект не указывает на экземпляр объекта.
+
+
+Пт 17.12.21 9:31:09	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:Интерфейс не зарегистрирован
+
+Не удалось найти регистрацию прокси-сервера для IID: {EAC04BC0-3791-11D2-BB95-0060977B464C}.
+
+
+Пт 17.12.21 9:47:59	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:Невозможно добавить строки в элемент управления DataGridView, в котором нет столбцов. Сначала необходимо добавить столбцы.
+
+
+Пт 17.12.21 9:56:48	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:Невозможно добавить строки в элемент управления DataGridView, в котором нет столбцов. Сначала необходимо добавить столбцы.
+
+
+Пт 17.12.21 10:00:41	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:Доступ к ликвидированному объекту невозможен.
+Имя объекта: "StorageProductForm".
+
+
+Пт 17.12.21 10:00:57	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:Доступ к ликвидированному объекту невозможен.
+Имя объекта: "StorageProductForm".
+
+
+Пт 17.12.21 10:01:15	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:Доступ к ликвидированному объекту невозможен.
+Имя объекта: "StorageProductForm".
+
+
+Пт 17.12.21 10:02:09	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:Доступ к ликвидированному объекту невозможен.
+Имя объекта: "StorageProductForm".
+
+
+Пт 17.12.21 10:30:50	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:Index is out of range. Index: 0 0.
+List have 0 element(s) and 4 expended items.
+
+Имя параметра: indexHorizontal
+
+
+Пт 17.12.21 11:03:10	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:An unknown error has occurred
+
+
+Пт 17.12.21 11:04:18	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:An unknown error has occurred
+
+
+Пт 17.12.21 11:09:14	[-]:
+Suspected error:Ошибка дешифрования..
+Compiler error:Входные данные не являются действительной строкой Base-64, поскольку содержат символ в кодировке, отличной от Base 64, больше двух символов заполнения или недопустимый символ среди символов заполнения. 
+
+
+Пт 17.12.21 11:09:15	[importExport.txt]:
+Suspected error:Ошибка чтения файла.
+Compiler error:Произошла ошибка в дешифрования файла.
+
+
+Пт 17.12.21 11:09:43	[-]:
+Suspected error:Ошибка дешифрования..
+Compiler error:Входные данные не являются действительной строкой Base-64, поскольку содержат символ в кодировке, отличной от Base 64, больше двух символов заполнения или недопустимый символ среди символов заполнения. 
+
+
+Пт 17.12.21 11:09:46	[importExport.txt]:
+Suspected error:Ошибка чтения файла.
+Compiler error:Произошла ошибка в дешифрования файла.
+
+
+Пт 17.12.21 11:12:09	[-]:
+Suspected error:Ошибка дешифрования..
+Compiler error:Входные данные не являются действительной строкой Base-64, поскольку содержат символ в кодировке, отличной от Base 64, больше двух символов заполнения или недопустимый символ среди символов заполнения. 
+
+
+Пт 17.12.21 11:12:11	[importExport.txt]:
+Suspected error:Ошибка чтения файла.
+Compiler error:Произошла ошибка в дешифрования файла.
+
+
+Пт 17.12.21 11:19:16	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:Index is out of range. Index: 999 3.
+List have 999 element(s) and 4 expended items.
+
+Имя параметра: indexHorizontal
+
+
+26.12.2021 1:27:00	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:Cannot access a disposed object.
+Object name: 'FindProductForm'.
+
+
+26.12.2021 1:31:54	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:Cannot access a disposed object.
+Object name: 'FindProductForm'.
+
+
+26.12.2021 1:32:41	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:Cannot access a disposed object.
+Object name: 'FindProductForm'.
+
+
+26.12.2021 1:42:06	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:No row can be added to a DataGridView control that does not have columns. Columns must be added first.
+
+
+26.12.2021 1:45:08	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:An unknown error has occurred
+
+
+26.12.2021 1:46:37	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:An unknown error has occurred
+
+
+26.12.2021 1:48:14	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:An unknown error has occurred
+
+
+26.12.2021 14:45:17	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:An unknown error has occurred
+
+
+26.12.2021 15:00:17	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:An unknown error has occurred
+
+
+26.12.2021 15:07:51	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:An unknown error has occurred
+
+
+26.12.2021 20:01:17	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:An unknown error has occurred
+
+
+26.12.2021 20:07:59	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:An unknown error has occurred
+
+
+26.12.2021 20:25:03	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:An unknown error has occurred
+
+
+26.12.2021 21:18:15	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:Строка не распознана как действительное значение DateTime.
+
+
+26.12.2021 21:19:34	[-]:
+Suspected error:Непредвиденная ошибка.
+Compiler error:Процесс не может получить доступ к файлу "C:\Users\Hachiko\Desktop\CourseworkDenisZhukov\bin\Debug\637761503726927630_report.txt", так как этот файл используется другим процессом.
+
+
